@@ -1,6 +1,6 @@
 # Computer Networks  
 <p align="center">
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/bb692804-6328-4a86-8b8a-7e08c77b784d" />
+<img width="250" alt="ScubaDancingGIF" src="https://github.com/user-attachments/assets/a908a7ab-1e74-45bb-8dc5-fe7767b46f52" />
 
 ---
 <img width="454" height="374" alt="image" src="https://github.com/user-attachments/assets/761dd81d-14dd-47f3-a5ad-e925445e58f5" />
